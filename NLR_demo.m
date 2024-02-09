@@ -4,7 +4,7 @@ optmparameter.beta=100;
 optmparameter.gamma=10;
 optmparameter.lambda=2.1;
 % for data set music_style, lambda=1.7
-
+% for data set birds_r=3, lambda=2.1
 threshold=0.9;
 result=zeros(5,5);
 
